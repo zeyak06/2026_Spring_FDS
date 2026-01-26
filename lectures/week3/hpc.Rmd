@@ -69,6 +69,9 @@ These systems introduced vector processing and specialized architectures optimiz
 \vskip .1 in
 However, Cray resisted the massively parallel solution to high-speed computing, offering a variety of reasons that it would never work as well as one very fast processor. He famously quipped "If you were plowing a field, which would you rather use: two strong oxen or 1024 chickens?" 
 
+## AI in Medicine at Rutgers
+\center
+![](hpc/SaulAmarel.jpg)
 
 ## Parallel Processing and Clusters
 **1980s-1990s**: During the speed in supercomputers was primarily achieved through two mechanisms:
